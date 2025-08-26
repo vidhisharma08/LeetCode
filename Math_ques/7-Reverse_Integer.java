@@ -1,4 +1,4 @@
-package Day_1;
+package Math_ques;
 
 class Solution {
     public int reverse(int x) {
